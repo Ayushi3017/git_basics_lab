@@ -1,1 +1,1 @@
-print('hello from my project')
+print('hello from updated project')
