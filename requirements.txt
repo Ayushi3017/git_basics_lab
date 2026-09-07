@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-pandas\matplotlib
-=======
+streamlit
 pandas
-matplotlib
->>>>>>> a3b1938 (Initial commiy : project skeleton)
+plotly
