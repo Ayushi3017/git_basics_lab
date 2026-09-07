@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+pandas\matplotlib
+=======
+pandas
+matplotlib
+>>>>>>> a3b1938 (Initial commiy : project skeleton)
